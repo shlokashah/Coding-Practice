@@ -1,7 +1,4 @@
 class Solution:
-    
-   
-    
     def isHappy(self, n: int) -> bool:
         sum_1 = n
         sum_2 = n
